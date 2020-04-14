@@ -1,0 +1,146 @@
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes$ cd "/home/sanchit199/Desktop/21154Codes/Program_2/" && g++ BST.cpp -o BST && "/home/sanchit199/Desktop/21154Codes/Program_2/"BST
+
+ MENU 
+1.INSERT WORD 
+2.PRINT DICTIONARY(ascending) 
+3.PRINT DICTIONARY(descending) 
+4.UPDATE 
+5.DELETE 
+6.COPY: 1
+
+ Enter Word: a
+
+ Enter meaning: aa
+
+ Do you want to continue inserting words ?(y/n)y
+
+ Enter Word: c
+
+ Enter meaning: cc
+
+ Do you want to continue inserting words ?(y/n)y
+
+ Enter Word: b
+
+ Enter meaning: bb
+
+ Do you want to continue inserting words ?(y/n)n
+
+Do you want to continue?(y\n)y
+
+ MENU 
+1.INSERT WORD 
+2.PRINT DICTIONARY(ascending) 
+3.PRINT DICTIONARY(descending) 
+4.UPDATE 
+5.DELETE 
+6.COPY: 2
+a       aa
+b       bb
+c       cc
+
+Do you want to continue?(y\n)y
+
+ MENU 
+1.INSERT WORD 
+2.PRINT DICTIONARY(ascending) 
+3.PRINT DICTIONARY(descending) 
+4.UPDATE 
+5.DELETE 
+6.COPY: 3
+c       cc
+b       bb
+a       aa
+
+Do you want to continue?(y\n)y
+
+ MENU 
+1.INSERT WORD 
+2.PRINT DICTIONARY(ascending) 
+3.PRINT DICTIONARY(descending) 
+4.UPDATE 
+5.DELETE 
+6.COPY: 1
+
+ Enter Word: d
+
+ Enter meaning: ddddddd
+
+ Do you want to continue inserting words ?(y/n)y
+
+ Enter Word: 3
+
+ Enter meaning: dd
+
+ Do you want to continue inserting words ?(y/n)n
+
+Do you want to continue?(y\n)y
+
+ MENU 
+1.INSERT WORD 
+2.PRINT DICTIONARY(ascending) 
+3.PRINT DICTIONARY(descending) 
+4.UPDATE 
+5.DELETE 
+6.COPY: 2
+3       dd
+a       aa
+b       bb
+c       cc
+d       ddddddd
+
+Do you want to continue?(y\n)y
+
+ MENU 
+1.INSERT WORD 
+2.PRINT DICTIONARY(ascending) 
+3.PRINT DICTIONARY(descending) 
+4.UPDATE 
+5.DELETE 
+6.COPY: 4
+
+ Enter word to be updated: d
+Enter new meaning: dd
+
+Upated Successfully
+Do you want to continue?(y\n)y
+
+ MENU 
+1.INSERT WORD 
+2.PRINT DICTIONARY(ascending) 
+3.PRINT DICTIONARY(descending) 
+4.UPDATE 
+5.DELETE 
+6.COPY: 5
+
+ Enter word to be deleted: 3
+
+Deleted Successfully
+Do you want to continue?(y\n)y
+
+ MENU 
+1.INSERT WORD 
+2.PRINT DICTIONARY(ascending) 
+3.PRINT DICTIONARY(descending) 
+4.UPDATE 
+5.DELETE 
+6.COPY: 2
+a       aa
+b       bb
+c       cc
+d       dd
+
+Do you want to continue?(y\n)y
+
+ MENU 
+1.INSERT WORD 
+2.PRINT DICTIONARY(ascending) 
+3.PRINT DICTIONARY(descending) 
+4.UPDATE 
+5.DELETE 
+6.COPY: 5
+
+ Enter word to be deleted: d
+
+Deleted Successfully
+Do you want to continue?(y\n)n

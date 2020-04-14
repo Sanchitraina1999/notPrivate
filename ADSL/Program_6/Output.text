@@ -1,0 +1,132 @@
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes$ cd "/home/sanchit199/Desktop/21154Codes/Program_6/" && g++ Hashing.cpp -o Hashing && "/home/sanchit199/Desktop/21154Codes/Program_6/"Hashing
+
+Enter number of dictionary entries: 4
+
+Enter type of Linear Probing: 
+1. Without Replacement
+2. With Replacement: 1
+
+1 Entry
+Enter key: 1
+Enter meaning: a
+#
+1
+#
+#
+
+2 Entry
+Enter key: 2
+Enter meaning: b
+#
+1
+2
+#
+
+3 Entry
+Enter key: 3
+Enter meaning: ab
+#
+1
+2
+3
+
+4 Entry
+Enter key: 4
+Enter meaning: abc
+4
+1
+2
+3
+
+SELECT OPTION
+1. Retrieve
+2. Delete
+3. Exit : 1
+
+Enter key of element to be found: 4
+
+FOUND!
+4 - abc
+SELECT OPTION
+1. Retrieve
+2. Delete
+3. Exit : 1
+
+Enter key of element to be found: 44
+
+NOT FOUND!
+SELECT OPTION
+1. Retrieve
+2. Delete
+3. Exit : 2
+
+Enter key of element to be deleted: 2
+
+DELETED SUCCESSFULLY
+SELECT OPTION
+1. Retrieve
+2. Delete
+3. Exit : 3
+
+
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes$ cd "/home/sanchit199/Desktop/21154Codes/Program_6/" && g++ Hashing.cpp -o Hashing && "/home/sanchit199/Desktop/21154Codes/Program_6/"Hashing
+
+Enter number of dictionary entries: 4
+
+Enter type of Linear Probing: 
+1. Without Replacement
+2. With Replacement: 2
+
+1 Entry
+Enter key: 1
+Enter meaning: a
+#
+1
+#
+#
+
+2 Entry
+Enter key: 2
+Enter meaning: b
+#
+1
+2
+#
+
+3 Entry
+Enter key: 3
+Enter meaning: ab
+#
+1
+2
+3
+
+4 Entry
+Enter key: 4
+Enter meaning: abc
+4
+1
+2
+3
+
+SELECT OPTION
+1. Retrieve
+2. Delete
+3. Exit : 1
+
+Enter key of element to be found: 4
+
+FOUND!
+4 - abc
+SELECT OPTION
+1. Retrieve
+2. Delete
+3. Exit : 1
+
+Enter key of element to be found: 44 
+
+NOT FOUND!
+SELECT OPTION
+1. Retrieve
+2. Delete
+3. Exit : 3

@@ -1,0 +1,34 @@
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes$ cd "/home/sanchit199/Desktop/21154Codes/Program_8/" && g++ OBST.cpp -o OBST && "/home/sanchit199/Desktop/21154Codes/Program_8/"OBST
+
+ Enter number of keys: 4
+
+Enter keys in sorted order: 2
+
+Enter keys in sorted order: 4
+
+Enter keys in sorted order: 5
+
+Enter keys in sorted order: 9
+
+Enter success probability (p[i]): 2
+
+Enter success probability (p[i]): 5
+
+Enter success probability (p[i]): 1
+
+Enter success probability (p[i]): 8
+
+Enter failure probability (qi): 3
+
+Enter failure probability (qi): 5
+
+Enter failure probability (qi): 1
+
+Enter failure probability (qi): 9
+
+Enter failure probability (qi): 2
+
+TREE TRAVERSAL
+PRE-ORDER       4       2       9       5
+IN-ORDER        2       4       5       9
+POST-ORDER      2       5       9       4

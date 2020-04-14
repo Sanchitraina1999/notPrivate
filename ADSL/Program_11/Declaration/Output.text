@@ -1,0 +1,117 @@
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes/Program_11$ javac Declaration/Interface.java
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes/Program_11$ javac Definition/SLL.java
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes/Program_11$ java Definition/SLL
+
+1.Insert 
+2.IsEmpty 
+3.Display 
+4.Delete 
+5.Size 
+6.Exit 
+ Enter your choice-:
+1
+Enter data to be inserted-: 
+3
+
+1.Insert 
+2.IsEmpty 
+3.Display 
+4.Delete 
+5.Size 
+6.Exit 
+ Enter your choice-:
+1
+Enter data to be inserted-: 
+6
+
+1.Insert 
+2.IsEmpty 
+3.Display 
+4.Delete 
+5.Size 
+6.Exit 
+ Enter your choice-:
+1
+Enter data to be inserted-: 
+8
+
+1.Insert 
+2.IsEmpty 
+3.Display 
+4.Delete 
+5.Size 
+6.Exit 
+ Enter your choice-:
+1
+Enter data to be inserted-: 
+12
+
+1.Insert 
+2.IsEmpty 
+3.Display 
+4.Delete 
+5.Size 
+6.Exit 
+ Enter your choice-:
+1
+Enter data to be inserted-: 
+16
+
+1.Insert 
+2.IsEmpty 
+3.Display 
+4.Delete 
+5.Size 
+6.Exit 
+ Enter your choice-:
+2
+Linked List is not Empty!!
+
+1.Insert 
+2.IsEmpty 
+3.Display 
+4.Delete 
+5.Size 
+6.Exit 
+ Enter your choice-:
+3
+3->6->8->12->16->
+1.Insert 
+2.IsEmpty 
+3.Display 
+4.Delete 
+5.Size 
+6.Exit 
+ Enter your choice-:
+5
+Size of Linked List is-: 5
+
+1.Insert 
+2.IsEmpty 
+3.Display 
+4.Delete 
+5.Size 
+6.Exit 
+ Enter your choice-:
+4
+Enter data to be deleted-: 
+12
+
+1.Insert 
+2.IsEmpty 
+3.Display 
+4.Delete 
+5.Size 
+6.Exit 
+ Enter your choice-:
+3
+3->6->8->16->
+1.Insert 
+2.IsEmpty 
+3.Display 
+4.Delete 
+5.Size 
+6.Exit 
+ Enter your choice-:
+6
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes/Program_11$ 

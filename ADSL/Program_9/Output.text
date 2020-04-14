@@ -1,0 +1,123 @@
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes/Program_9$ cd "/home/sanchit199/Desktop/21154Codes/Program_9/" && g++ set.cpp -o set && "/home/sanchit199/Desktop/21154Codes/Program_9/"set
+
+***** *** *****
+
+Enter number of elements in the set : 5
+
+Enter elements sequencially only,
+Enter data : 1
+Enter data : 2
+Enter data : 3
+Enter data : 4
+Enter data : 5
+
+The set is :
+{ 1 2 3 4 5 }
+
+***** *** *****
+
+Enter number of elements in the second set : 5
+
+Enter elements sequencially only,
+Enter data : 2
+Enter data : 4
+Enter data : 6
+Enter data : 8
+Enter data : 10
+
+The set is :
+{ 2 4 6 8 10 }
+
+***** *** *****
+
+***** *** *****
+
+1.Insert Elements
+2.Search
+3.Delete Element
+4.Intersection
+5.Union
+6.Exit
+Enter your choice : 1
+
+Enter data you want to insert :6
+
+***** *** *****
+
+The element is added
+The set is :
+{ 1 2 3 4 5 6 }
+
+***** *** *****
+
+1.Insert Elements
+2.Search
+3.Delete Element
+4.Intersection
+5.Union
+6.Exit
+Enter your choice : 2
+Enter the data to be searched : 7
+Element is not present
+1.Insert Elements
+2.Search
+3.Delete Element
+4.Intersection
+5.Union
+6.Exit
+Enter your choice : 2
+Enter the data to be searched : 6
+Element is present
+1.Insert Elements
+2.Search
+3.Delete Element
+4.Intersection
+5.Union
+6.Exit
+Enter your choice : 3
+Enter the element to be deleted : 6
+Element deleted successfully
+***** *** *****
+
+1.Insert Elements
+2.Search
+3.Delete Element
+4.Intersection
+5.Union
+6.Exit
+Enter your choice : 2
+Enter the data to be searched : 6
+Element is not present
+1.Insert Elements
+2.Search
+3.Delete Element
+4.Intersection
+5.Union
+6.Exit
+Enter your choice : 4
+
+The intersection of the two sets is : 
+2 4 
+***** *** *****
+
+1.Insert Elements
+2.Search
+3.Delete Element
+4.Intersection
+5.Union
+6.Exit
+Enter your choice : 5
+
+The union of the two sets is : 
+1 2 2 3 4 4 5 6 8 10 
+***** *** *****
+
+1.Insert Elements
+2.Search
+3.Delete Element
+4.Intersection
+5.Union
+6.Exit
+Enter your choice : 6
+
+Exiting...

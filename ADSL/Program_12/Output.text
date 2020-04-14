@@ -1,0 +1,202 @@
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes$ cd "/home/sanchit199/Desktop/21154Codes/done/Program_12/" && javac templatesandExcptn.java && java templatesandExcptn
+-------------For Integer-----------
+
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+1
+12
+
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+1
+56
+
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+1
+18
+
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+1
+63
+
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+3
+'63'
+ is Data at top!!
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+2
+ '63' is popped data!!
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+3
+'18'
+ is Data at top!!
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+2
+ '18' is popped data!!
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+3
+'56'
+ is Data at top!!
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+2
+ '56' is popped data!!
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+3
+'12'
+ is Data at top!!
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+2
+ '12' is popped data!!
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+3
+Exception Caught-: java.lang.RuntimeException: Underflow!!
+
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+2
+Exception Caught-: java.lang.RuntimeException: Underflow!!
+
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+2
+Exception Caught-: java.lang.RuntimeException: Underflow!!
+
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+4
+-------------For Characters-----------
+
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+1
+a
+
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+1
+b
+
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+3
+'b' is Data at top!!
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+2
+'b' is popped data!!
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+3
+'a' is Data at top!!
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+2
+'a' is popped data!!
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+2
+Exception Caught-: java.lang.RuntimeException: Underflow!!
+
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+2
+Exception Caught-: java.lang.RuntimeException: Underflow!!
+
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+3
+Exception Caught-: java.lang.RuntimeException: Underflow!!
+
+1.Push the element 
+2.Pop the element 
+3.Display element at top 
+4.Exit 
+ Enter your choice-:
+4
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes/done/Program_12$ 

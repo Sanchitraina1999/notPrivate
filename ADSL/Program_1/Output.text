@@ -1,0 +1,272 @@
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes$ cd "/home/sanchit199/Desktop/21154Codes/Program_1/" && g++ binaryTree.cpp -o binaryTree && "/home/sanchit199/Desktop/21154Codes/Program_1/"binaryTree
+1. Create the Tree.
+2. Delete the Tree.
+3. Inorder Traversal.
+4. Preorder Traversal.
+5. Postorder Traversal.
+6. Iterative Preorder.
+7. Iterative Inorder.
+8. Iterative Postorder.
+9. Display Internal and External Nodes.
+10. Mirror image of Tree.
+11. Exit
+Enter your Choice :: 1
+
+Enter the number of nodes in the tree :: 7
+Enter Data :: 1
+Data Inserted.
+Enter Data :: 2
+Do you want to insert node left or right(l/r)l
+Data Inserted.
+Enter Data :: 3
+Do you want to insert node left or right(l/r)r
+Data Inserted.
+Enter Data :: 4
+Do you want to insert node left or right(l/r)l
+Do you want to insert node left or right(l/r)l
+Data Inserted.
+Enter Data :: 5
+Do you want to insert node left or right(l/r)l
+Do you want to insert node left or right(l/r)r
+Data Inserted.
+Enter Data :: 6
+Do you want to insert node left or right(l/r)r
+Do you want to insert node left or right(l/r)l
+Data Inserted.
+Enter Data :: 7
+Do you want to insert node left or right(l/r)r
+Do you want to insert node left or right(l/r)r
+Data Inserted.
+
+Tree Created.
+
+
+Do You want to continue(y/n).
+y
+
+1. Create the Tree.
+2. Delete the Tree.
+3. Inorder Traversal.
+4. Preorder Traversal.
+5. Postorder Traversal.
+6. Iterative Preorder.
+7. Iterative Inorder.
+8. Iterative Postorder.
+9. Display Internal and External Nodes.
+10. Mirror image of Tree.
+11. Exit
+Enter your Choice :: 3
+
+The Inorder traversal of Tree :: 
+4 2 5 1 6 3 7 
+
+Do You want to continue(y/n).
+y
+
+1. Create the Tree.
+2. Delete the Tree.
+3. Inorder Traversal.
+4. Preorder Traversal.
+5. Postorder Traversal.
+6. Iterative Preorder.
+7. Iterative Inorder.
+8. Iterative Postorder.
+9. Display Internal and External Nodes.
+10. Mirror image of Tree.
+11. Exit
+Enter your Choice :: 4
+
+The Preorder Traversal of the Tree :: 
+1 2 4 5 3 6 7 
+
+Do You want to continue(y/n).
+y
+
+1. Create the Tree.
+2. Delete the Tree.
+3. Inorder Traversal.
+4. Preorder Traversal.
+5. Postorder Traversal.
+6. Iterative Preorder.
+7. Iterative Inorder.
+8. Iterative Postorder.
+9. Display Internal and External Nodes.
+10. Mirror image of Tree.
+11. Exit
+Enter your Choice :: 5
+
+The Postorder Traversal of Tree :: 
+4 5 2 6 7 3 1 
+
+Do You want to continue(y/n).
+y
+
+1. Create the Tree.
+2. Delete the Tree.
+3. Inorder Traversal.
+4. Preorder Traversal.
+5. Postorder Traversal.
+6. Iterative Preorder.
+7. Iterative Inorder.
+8. Iterative Postorder.
+9. Display Internal and External Nodes.
+10. Mirror image of Tree.
+11. Exit
+Enter your Choice :: 6
+
+The Preorder Traversal of Tree using Iteration :: 
+1 2 4 5 3 6 7 
+
+Do You want to continue(y/n).
+y
+
+1. Create the Tree.
+2. Delete the Tree.
+3. Inorder Traversal.
+4. Preorder Traversal.
+5. Postorder Traversal.
+6. Iterative Preorder.
+7. Iterative Inorder.
+8. Iterative Postorder.
+9. Display Internal and External Nodes.
+10. Mirror image of Tree.
+11. Exit
+Enter your Choice :: 7
+
+The Inorder Traversal using Iterative Method :: 
+4 2 5 1 6 3 7 
+
+Do You want to continue(y/n).
+y
+
+1. Create the Tree.
+2. Delete the Tree.
+3. Inorder Traversal.
+4. Preorder Traversal.
+5. Postorder Traversal.
+6. Iterative Preorder.
+7. Iterative Inorder.
+8. Iterative Postorder.
+9. Display Internal and External Nodes.
+10. Mirror image of Tree.
+11. Exit
+Enter your Choice :: 8
+
+The Postorder traversal of the tree using Iteration :: 
+4 5 2 6 7 3 1 
+
+
+Do You want to continue(y/n).
+y
+
+1. Create the Tree.
+2. Delete the Tree.
+3. Inorder Traversal.
+4. Preorder Traversal.
+5. Postorder Traversal.
+6. Iterative Preorder.
+7. Iterative Inorder.
+8. Iterative Postorder.
+9. Display Internal and External Nodes.
+10. Mirror image of Tree.
+11. Exit
+Enter your Choice :: 9
+
+Internal nodes of the Tree ::
+2 1 3 
+
+External nodes of the Tree ::
+4 5 6 7 
+
+
+Do You want to continue(y/n).
+y
+
+1. Create the Tree.
+2. Delete the Tree.
+3. Inorder Traversal.
+4. Preorder Traversal.
+5. Postorder Traversal.
+6. Iterative Preorder.
+7. Iterative Inorder.
+8. Iterative Postorder.
+9. Display Internal and External Nodes.
+10. Mirror image of Tree.
+11. Exit
+Enter your Choice :: 10
+
+The Tree is Mirrored.
+
+
+Do You want to continue(y/n).
+y
+
+1. Create the Tree.
+2. Delete the Tree.
+3. Inorder Traversal.
+4. Preorder Traversal.
+5. Postorder Traversal.
+6. Iterative Preorder.
+7. Iterative Inorder.
+8. Iterative Postorder.
+9. Display Internal and External Nodes.
+10. Mirror image of Tree.
+11. Exit
+Enter your Choice :: 4
+
+The Preorder Traversal of the Tree :: 
+1 3 7 6 2 5 4 
+
+Do You want to continue(y/n).
+y
+
+1. Create the Tree.
+2. Delete the Tree.
+3. Inorder Traversal.
+4. Preorder Traversal.
+5. Postorder Traversal.
+6. Iterative Preorder.
+7. Iterative Inorder.
+8. Iterative Postorder.
+9. Display Internal and External Nodes.
+10. Mirror image of Tree.
+11. Exit
+Enter your Choice :: 2
+
+Tree Deleted.
+
+
+Do You want to continue(y/n).
+y
+
+1. Create the Tree.
+2. Delete the Tree.
+3. Inorder Traversal.
+4. Preorder Traversal.
+5. Postorder Traversal.
+6. Iterative Preorder.
+7. Iterative Inorder.
+8. Iterative Postorder.
+9. Display Internal and External Nodes.
+10. Mirror image of Tree.
+11. Exit
+Enter your Choice :: 3
+
+The Tree is Empty.
+
+
+Do You want to continue(y/n).
+y
+
+1. Create the Tree.
+2. Delete the Tree.
+3. Inorder Traversal.
+4. Preorder Traversal.
+5. Postorder Traversal.
+6. Iterative Preorder.
+7. Iterative Inorder.
+8. Iterative Postorder.
+9. Display Internal and External Nodes.
+10. Mirror image of Tree.
+11. Exit
+Enter your Choice :: 11

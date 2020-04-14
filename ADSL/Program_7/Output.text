@@ -1,0 +1,105 @@
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes/Program_7$ cd "/home/sanchit1
+99/Desktop/21154Codes/Program_7/" && g++ Chaining.cpp -o Chaining && "/home/sanchit1
+99/Desktop/21154Codes/Program_7/"Chaining
+
+Enter number of Identifiers(symbols) to be stored: 3
+
+Enter type of Linear Probing: 
+1. Without Replacement
+2. With Replacement: 2
+
+1 Entry
+Enter Identifier(symbol) Name: dot
+Enter data type: char
+Enter initial value: 0
+
+dot     -1
+#       -1
+#       -1
+2 Entry
+Enter Identifier(symbol) Name: dash
+Enter data type: char
+Enter initial value: 1
+
+dot     -1
+dash    -1
+#       -1
+3 Entry
+Enter Identifier(symbol) Name: dollar
+Enter data type: int
+Enter initial value: 2
+
+dot     2
+dash    -1
+dollar  -1
+SELECT OPTION
+1. Retrieve
+2. Delete
+3. Modify
+4. Exit: 1
+
+Enter key of element to be found: 2
+
+NOT FOUND!
+SELECT OPTION
+1. Retrieve
+2. Delete
+3. Modify
+4. Exit: 1
+
+Enter key of element to be found: -1
+
+NOT FOUND!
+SELECT OPTION
+1. Retrieve
+2. Delete
+3. Modify
+4. Exit: 1
+
+Enter key of element to be found: dot
+
+FOUND!
+dotchar0
+SELECT OPTION
+1. Retrieve
+2. Delete
+3. Modify
+4. Exit: 3
+
+Enter key of element to be modified: dot
+
+Enter new initial value: 5
+
+SELECT OPTION
+1. Retrieve
+2. Delete
+3. Modify
+4. Exit: 1
+
+Enter key of element to be found: dot
+
+FOUND!
+dotchar5
+SELECT OPTION
+1. Retrieve
+2. Delete
+3. Modify
+4. Exit: 2
+
+Enter key of element to be deleted: dash
+
+DELETED SUCCESSFULLY
+SELECT OPTION
+1. Retrieve
+2. Delete
+3. Modify
+4. Exit: 1
+
+Enter key of element to be found: dash
+
+NOT FOUND!
+SELECT OPTION
+1. Retrieve
+2. Delete
+3. Modify
+4. Exit: 4

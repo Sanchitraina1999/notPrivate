@@ -1,0 +1,96 @@
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes$ cd "/home/sanchit199/Desktop/21154Codes/Program_5/" && g++ graphAlgos.cpp -o graphAlgos && "/home/sanchit199/Desktop/21154Codes/Program_5/"graphAlgos
+
+Enter number of offices: 4
+
+Enter starting office number: 0
+
+Enter ending office number: 3
+
+Enter Amount: 50
+
+Do you want to add another?y
+
+Enter starting office number: 1
+
+Enter ending office number: 2
+
+Enter Amount: 12
+
+Do you want to add another?y
+
+Enter starting office number: 0
+
+Enter ending office number: 3
+
+Already added
+ Do you want to change amount?(y/n): n
+
+Enter starting office number: 1
+
+Enter ending office number: 2
+
+Already added
+ Do you want to change amount?(y/n): n
+
+Enter starting office number: 0
+
+Enter ending office number: 1
+
+Enter Amount: 44
+
+Do you want to add another?y
+
+Enter starting office number: 0
+
+Enter ending office number: 2
+
+Enter Amount: 36
+
+Do you want to add another?y
+
+Enter starting office number: 1
+
+Enter ending office number: 2
+
+Already added
+ Do you want to change amount?(y/n): n
+
+Enter starting office number: 0
+
+Enter ending office number: 3
+
+Already added
+ Do you want to change amount?(y/n): y
+
+Enter Amount: 44
+
+Do you want to add another?n
+
+Compute MINIMUM SPANNING TREE by:
+         1. Prim's Algorithm
+         2. Kruskal's Algorithm
+3. EXIT2
+
+Minimum spanning tree Matrix is: 
+
+0       0       36      44
+0       0       12      0
+36      12      0       0
+44      0       0       0
+Cost is: 92
+Compute MINIMUM SPANNING TREE by:
+         1. Prim's Algorithm
+         2. Kruskal's Algorithm
+3. EXIT1
+
+Minimum spanning tree Matrix is: 
+
+0       0       36      44
+0       0       12      0
+36      12      0       0
+44      0       0       0
+Cost is: 92
+Compute MINIMUM SPANNING TREE by:
+         1. Prim's Algorithm
+         2. Kruskal's Algorithm
+3. EXIT3

@@ -1,0 +1,319 @@
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes$ cd "/home/sanchit199/Desktop/21154Codes/Program_4/" && g++ graph.cpp -o graph && "/home/sanchit199/Desktop/21154Codes/Program_4/"graph
+
+
+Enter the number of cities to be represented on the network
+2
+
+
+Graph initialised
+1. Enter the details of the network
+2. Add a city to the network
+3. Delete a city from the network
+4. Add a flight from a city
+5. Delete a flight from a city
+6. Get number of flights landing in each city
+7. Get number of flight taking off from each city
+8. Show the current network
+1
+
+
+Enter the names of 2 cities
+DELHI
+PUNE
+
+
+The 2 cities are:
+1 -> DELHI
+2 -> PUNE
+
+
+
+Do you want to continue (y/n) : y
+1. Enter the details of the network
+2. Add a city to the network
+3. Delete a city from the network
+4. Add a flight from a city
+5. Delete a flight from a city
+6. Get number of flights landing in each city
+7. Get number of flight taking off from each city
+8. Show the current network
+2
+Enter the city to add : JAMMU
+
+
+Now, the cities in the network are: 
+1 -> DELHI
+2 -> PUNE
+3 -> JAMMU
+
+
+
+Do you want to continue (y/n) : y
+1. Enter the details of the network
+2. Add a city to the network
+3. Delete a city from the network
+4. Add a flight from a city
+5. Delete a flight from a city
+6. Get number of flights landing in each city
+7. Get number of flight taking off from each city
+8. Show the current network
+2
+Enter the city to add : KOLKATA
+
+
+Now, the cities in the network are: 
+1 -> DELHI
+2 -> PUNE
+3 -> JAMMU
+4 -> KOLKATA
+
+
+
+Do you want to continue (y/n) : y
+1. Enter the details of the network
+2. Add a city to the network
+3. Delete a city from the network
+4. Add a flight from a city
+5. Delete a flight from a city
+6. Get number of flights landing in each city
+7. Get number of flight taking off from each city
+8. Show the current network
+3
+City you want to delete from the network: KOLKATA
+
+Cities in network now are: 
+ DELHI PUNE JAMMU 
+
+The network is:
+DELHI -> 
+PUNE -> 
+JAMMU -> 
+
+
+
+Do you want to continue (y/n) : y
+1. Enter the details of the network
+2. Add a city to the network
+3. Delete a city from the network
+4. Add a flight from a city
+5. Delete a flight from a city
+6. Get number of flights landing in each city
+7. Get number of flight taking off from each city
+8. Show the current network
+4
+
+
+The network is:
+DELHI -> 
+PUNE -> 
+JAMMU -> 
+Source City : DELHI
+Destination City : PUNE
+Cost from DELHI to PUNE: 123
+
+
+The network is:
+DELHI -> PUNE(123)
+PUNE -> 
+JAMMU -> 
+
+
+
+Do you want to continue (y/n) : y
+1. Enter the details of the network
+2. Add a city to the network
+3. Delete a city from the network
+4. Add a flight from a city
+5. Delete a flight from a city
+6. Get number of flights landing in each city
+7. Get number of flight taking off from each city
+8. Show the current network
+4
+
+
+The network is:
+DELHI -> PUNE(123)
+PUNE -> 
+JAMMU -> 
+Source City : PUNE
+Destination City : DELHI
+Cost from PUNE to DELHI: 124
+
+
+The network is:
+DELHI -> PUNE(123)
+PUNE -> DELHI(124)
+JAMMU -> 
+
+
+
+Do you want to continue (y/n) : y
+1. Enter the details of the network
+2. Add a city to the network
+3. Delete a city from the network
+4. Add a flight from a city
+5. Delete a flight from a city
+6. Get number of flights landing in each city
+7. Get number of flight taking off from each city
+8. Show the current network
+4
+
+
+The network is:
+DELHI -> PUNE(123)
+PUNE -> DELHI(124)
+JAMMU -> 
+Source City : JAMMU
+Destination City : DELHI
+Cost from JAMMU to DELHI: 451
+
+
+The network is:
+DELHI -> PUNE(123)
+PUNE -> DELHI(124)
+JAMMU -> DELHI(451)
+
+
+
+Do you want to continue (y/n) : y
+1. Enter the details of the network
+2. Add a city to the network
+3. Delete a city from the network
+4. Add a flight from a city
+5. Delete a flight from a city
+6. Get number of flights landing in each city
+7. Get number of flight taking off from each city
+8. Show the current network
+5
+
+
+The network is:
+DELHI -> PUNE(123)
+PUNE -> DELHI(124)
+JAMMU -> DELHI(451)
+Source City : JAMMU
+Destination City : PUNE
+
+
+The network is:
+DELHI -> PUNE(123)
+PUNE -> DELHI(124)
+JAMMU -> DELHI(451)
+
+
+
+Do you want to continue (y/n) : y
+1. Enter the details of the network
+2. Add a city to the network
+3. Delete a city from the network
+4. Add a flight from a city
+5. Delete a flight from a city
+6. Get number of flights landing in each city
+7. Get number of flight taking off from each city
+8. Show the current network
+5
+
+
+The network is:
+DELHI -> PUNE(123)
+PUNE -> DELHI(124)
+JAMMU -> DELHI(451)
+Source City : JAMMU
+Destination City : DELHI
+
+
+The network is:
+DELHI -> PUNE(123)
+PUNE -> DELHI(124)
+JAMMU -> 
+
+
+
+Do you want to continue (y/n) : y
+1. Enter the details of the network
+2. Add a city to the network
+3. Delete a city from the network
+4. Add a flight from a city
+5. Delete a flight from a city
+6. Get number of flights landing in each city
+7. Get number of flight taking off from each city
+8. Show the current network
+4
+
+
+The network is:
+DELHI -> PUNE(123)
+PUNE -> DELHI(124)
+JAMMU -> 
+Source City : JAMMU
+Destination City : DELHI
+Cost from JAMMU to DELHI: 455
+
+
+The network is:
+DELHI -> PUNE(123)
+PUNE -> DELHI(124)
+JAMMU -> DELHI(455)
+
+
+
+Do you want to continue (y/n) : y
+1. Enter the details of the network
+2. Add a city to the network
+3. Delete a city from the network
+4. Add a flight from a city
+5. Delete a flight from a city
+6. Get number of flights landing in each city
+7. Get number of flight taking off from each city
+8. Show the current network
+6
+Enter the name of the city: DELHI
+
+
+The network is:
+DELHI -> PUNE(123)
+PUNE -> DELHI(124)
+JAMMU -> DELHI(455)
+Flights landing in DELHI is/are 2
+
+
+Do you want to continue (y/n) : y
+1. Enter the details of the network
+2. Add a city to the network
+3. Delete a city from the network
+4. Add a flight from a city
+5. Delete a flight from a city
+6. Get number of flights landing in each city
+7. Get number of flight taking off from each city
+8. Show the current network
+7
+Enter the name of the city: DELHI
+
+
+The network is:
+DELHI -> PUNE(123)
+PUNE -> DELHI(124)
+JAMMU -> DELHI(455)
+Flights taking off from DELHI is/are 1
+
+
+Do you want to continue (y/n) : y
+1. Enter the details of the network
+2. Add a city to the network
+3. Delete a city from the network
+4. Add a flight from a city
+5. Delete a flight from a city
+6. Get number of flights landing in each city
+7. Get number of flight taking off from each city
+8. Show the current network
+8
+
+
+The network is:
+DELHI -> PUNE(123)
+PUNE -> DELHI(124)
+JAMMU -> DELHI(455)
+
+
+
+Do you want to continue (y/n) : n

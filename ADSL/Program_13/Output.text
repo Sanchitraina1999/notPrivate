@@ -1,0 +1,308 @@
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes$ cd "/home/sanchit199/Desktop/21154Codes/Program_13/" && javac ds.java && java ds
+
+1.Linked List 
+2.Stack 
+3.Priority Queue 
+4.Dequeue 
+5.HashSet 
+6.Exit
+1
+
+1.Add First 
+2.Add Last 
+3.Remove First 
+4.Remove Last 
+5.Display whole list 
+6.Exit
+1
+Enter data to be added in list-: 
+3
+
+1.Add First 
+2.Add Last 
+3.Remove First 
+4.Remove Last 
+5.Display whole list 
+6.Exit
+6
+
+1.Linked List 
+2.Stack 
+3.Priority Queue 
+4.Dequeue 
+5.HashSet 
+6.Exit
+2
+
+1.Push 
+2.Pop 
+3.Display Top 
+4.IsEmpty 
+5.Exit
+1
+Enter data to be added in list-: 
+56
+
+1.Push 
+2.Pop 
+3.Display Top 
+4.IsEmpty 
+5.Exit
+1
+Enter data to be added in list-: 
+45
+
+1.Push 
+2.Pop 
+3.Display Top 
+4.IsEmpty 
+5.Exit
+3
+Data at top of stack is-: 45
+
+1.Push 
+2.Pop 
+3.Display Top 
+4.IsEmpty 
+5.Exit
+4
+Stack is not empty!!
+
+1.Push 
+2.Pop 
+3.Display Top 
+4.IsEmpty 
+5.Exit
+5
+
+1.Linked List 
+2.Stack 
+3.Priority Queue 
+4.Dequeue 
+5.HashSet 
+6.Exit
+3
+
+1.Add Data 
+2.Pop 
+3.Display head 
+4.size 
+5.Exit
+2
+Data popped from Priority Queue is-: null
+
+1.Add Data 
+2.Pop 
+3.Display head 
+4.size 
+5.Exit
+1
+Enter data to be added in Priority Queue-: 
+6
+
+1.Add Data 
+2.Pop 
+3.Display head 
+4.size 
+5.Exit
+1
+Enter data to be added in Priority Queue-: 
+4
+
+1.Add Data 
+2.Pop 
+3.Display head 
+4.size 
+5.Exit
+3
+Data at top of Priority Queue is-: 4
+
+1.Add Data 
+2.Pop 
+3.Display head 
+4.size 
+5.Exit
+4
+Size of Priority Queue is-: 2
+
+1.Add Data 
+2.Pop 
+3.Display head 
+4.size 
+5.Exit
+5
+
+1.Linked List 
+2.Stack 
+3.Priority Queue 
+4.Dequeue 
+5.HashSet 
+6.Exit
+4
+
+1.Add First 
+2.Add last 
+3.Display head 
+4.Display Tail 
+5.Remove First 
+6.Remove Last 
+7.Exit
+2
+Enter data to be added in Deque-: 
+78
+
+1.Add First 
+2.Add last 
+3.Display head 
+4.Display Tail 
+5.Remove First 
+6.Remove Last 
+7.Exit
+2
+Enter data to be added in Deque-: 
+98
+
+1.Add First 
+2.Add last 
+3.Display head 
+4.Display Tail 
+5.Remove First 
+6.Remove Last 
+7.Exit
+3
+Element at first position is-:  78
+
+1.Add First 
+2.Add last 
+3.Display head 
+4.Display Tail 
+5.Remove First 
+6.Remove Last 
+7.Exit
+4
+Element at last position is-:  98
+
+1.Add First 
+2.Add last 
+3.Display head 
+4.Display Tail 
+5.Remove First 
+6.Remove Last 
+7.Exit
+98
+Enter valid choice!!
+
+1.Add First 
+2.Add last 
+3.Display head 
+4.Display Tail 
+5.Remove First 
+6.Remove Last 
+7.Exit
+5
+Data removed from front is-: 78
+
+1.Add First 
+2.Add last 
+3.Display head 
+4.Display Tail 
+5.Remove First 
+6.Remove Last 
+7.Exit
+6
+Data removed from Last is-: 98
+
+1.Add First 
+2.Add last 
+3.Display head 
+4.Display Tail 
+5.Remove First 
+6.Remove Last 
+7.Exit
+98
+Enter valid choice!!
+
+1.Add First 
+2.Add last 
+3.Display head 
+4.Display Tail 
+5.Remove First 
+6.Remove Last 
+7.Exit
+7
+
+1.Linked List 
+2.Stack 
+3.Priority Queue 
+4.Dequeue 
+5.HashSet 
+6.Exit
+5
+
+1.Add element 
+2.Remove element 
+3.Display whole 
+4.size
+5.Exit
+1
+Enter data to be added in HashSet-: 
+12
+
+1.Add element 
+2.Remove element 
+3.Display whole 
+4.size
+5.Exit
+1
+Enter data to be added in HashSet-: 
+34
+
+1.Add element 
+2.Remove element 
+3.Display whole 
+4.size
+5.Exit
+1
+Enter data to be added in HashSet-: 
+56
+
+1.Add element 
+2.Remove element 
+3.Display whole 
+4.size
+5.Exit
+2
+Enter data to be removed from Deque-: 
+23
+
+1.Add element 
+2.Remove element 
+3.Display whole 
+4.size
+5.Exit
+3
+Elements in whole Hashset are-:  [34, 56, 12]
+
+1.Add element 
+2.Remove element 
+3.Display whole 
+4.size
+5.Exit
+4
+Size of HashSet is-:  3
+
+1.Add element 
+2.Remove element 
+3.Display whole 
+4.size
+5.Exit
+5
+
+1.Linked List 
+2.Stack 
+3.Priority Queue 
+4.Dequeue 
+5.HashSet 
+6.Exit
+6
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes/Program_13$ 

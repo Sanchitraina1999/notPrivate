@@ -1,0 +1,60 @@
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154 Codes$ cd "/home/sanchit199/Desktop/21154 Codes/done/Program_3/" && g++ TBT.cpp -o TBT && "/home/sanchit199/Desktop/21154 Codes/done/Program_3/"TBT
+
+Empty tree created
+
+
+1. Create Tree
+2. Inorder Traversal
+3. Preorder Traversal1
+
+Enter the data to be added to TBT : 1
+
+Do you want to add more nodes to the tree: (y/n) y
+
+Enter the data to be added to TBT : 2
+Do you want to insert 2 to left or to right of 1 ?: [l]/[r]l
+
+Do you want to add more nodes to the tree: (y/n) y
+
+Enter the data to be added to TBT : 3
+Do you want to insert 3 to left or to right of 1 ?: [l]/[r]r
+
+Do you want to add more nodes to the tree: (y/n) y
+
+Enter the data to be added to TBT : 4
+Do you want to insert 4 to left or to right of 1 ?: [l]/[r]l
+Do you want to insert 4 to left or to right of 2 ?: [l]/[r]l
+
+Do you want to add more nodes to the tree: (y/n) y
+
+Enter the data to be added to TBT : 5
+Do you want to insert 5 to left or to right of 1 ?: [l]/[r]l
+Do you want to insert 5 to left or to right of 2 ?: [l]/[r]r
+
+Do you want to add more nodes to the tree: (y/n) y
+
+Enter the data to be added to TBT : 6
+Do you want to insert 6 to left or to right of 1 ?: [l]/[r]r
+Do you want to insert 6 to left or to right of 3 ?: [l]/[r]l
+
+Do you want to add more nodes to the tree: (y/n) y
+
+Enter the data to be added to TBT : 7
+Do you want to insert 7 to left or to right of 1 ?: [l]/[r]r
+Do you want to insert 7 to left or to right of 3 ?: [l]/[r]r
+
+Do you want to add more nodes to the tree: (y/n) n
+
+Do you to continue (y/n) : y
+
+1. Create Tree
+2. Inorder Traversal
+3. Preorder Traversal2
+Inorder Traversal: 4    2       5       1       6       3       7
+Do you to continue (y/n) : y
+
+1. Create Tree
+2. Inorder Traversal
+3. Preorder Traversal3
+Preorder Traversal: 1   2       4       5       3       6       7
+Do you to continue (y/n) : n

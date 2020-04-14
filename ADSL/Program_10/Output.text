@@ -1,0 +1,174 @@
+sanchit199@sanchit199-Vostro-3578:~/Desktop/21154Codes$ cd "/home/sanchit199/Desktop/21154Codes/Program_10/" && g++ sequentialFile.cpp -o sequentialFile && "/home/sanchit199/Desktop/21154Codes/Program_10/"sequentialFile
+
+*****Department Students*****
+1) Add New Record
+2) Display All Records
+3) Search by Person Name
+4) Search by Roll No.
+5) Update Information
+6) Exit
+Choose your choice : 1
+
+Enter Name : aish
+
+Enter Roll Number : 2156
+
+Enter Division : 1
+
+Enter City : Pune
+
+*****Department Students*****
+1) Add New Record
+2) Display All Records
+3) Search by Person Name
+4) Search by Roll No.
+5) Update Information
+6) Exit
+Choose your choice : 2
+
+
+================Records in Department===================
+
+---------------------------------------------------
+
+Name-: raj
+Roll Number-: 2149
+Division-:1
+City-: Jammu
+
+---------------------------------------------------
+---------------------------------------------------
+
+Name-: ajay
+Roll Number-: 2150
+Division-:1
+City-: Pune
+
+---------------------------------------------------
+---------------------------------------------------
+
+Name-: rutuja
+Roll Number-: 2151
+Division-:1
+City-: Pune
+
+---------------------------------------------------
+---------------------------------------------------
+
+Name-: sahil
+Roll Number-: 2152
+Division-:1
+City-: Jammu
+
+---------------------------------------------------
+---------------------------------------------------
+
+Name-: sam
+Roll Number-: 2153
+Division-:0
+City-: Ahmednagar
+
+---------------------------------------------------
+---------------------------------------------------
+
+Name-: sanc
+Roll Number-: 2154
+Division-:1
+City-: Jammu
+
+---------------------------------------------------
+---------------------------------------------------
+
+Name-: teja
+Roll Number-: 2155
+Division-:1
+City-: PCMC
+
+---------------------------------------------------
+---------------------------------------------------
+
+Name-: aish
+Roll Number-: 2156
+Division-:1
+City-: Pune
+
+---------------------------------------------------
+*****Department Students*****
+1) Add New Record
+2) Display All Records
+3) Search by Person Name
+4) Search by Roll No.
+5) Update Information
+6) Exit
+Choose your choice : 3
+
+
+Enter Name : sam
+
+
+Name-: sam
+Roll Number-: 2153
+Division-:0
+City-: Ahmednagar
+
+*****Department Students*****
+1) Add New Record
+2) Display All Records
+3) Search by Person Name
+4) Search by Roll No.
+5) Update Information
+6) Exit
+Choose your choice : 4
+
+
+Enter Roll No : 2151
+
+
+Name-: rutuja
+Roll Number-: 2151
+Division-:1
+City-: Pune
+
+*****Department Students*****
+1) Add New Record
+2) Display All Records
+3) Search by Person Name
+4) Search by Roll No.
+5) Update Information
+6) Exit
+Choose your choice : 5
+
+
+Enter Roll No : 2151
+Enter Updated name : rutu
+
+Enter Updated Division-: 1
+
+Enter Updated Address-: Pune
+
+*****Department Students*****
+1) Add New Record
+2) Display All Records
+3) Search by Person Name
+4) Search by Roll No.
+5) Update Information
+6) Exit
+Choose your choice : 3
+
+
+Enter Name : rutu
+
+
+Name-: rutu
+Roll Number-: 2151
+Division-:1
+City-: Pune
+
+*****Department Students*****
+1) Add New Record
+2) Display All Records
+3) Search by Person Name
+4) Search by Roll No.
+5) Update Information
+6) Exit
+Choose your choice : 6
